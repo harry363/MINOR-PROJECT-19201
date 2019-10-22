@@ -1,4 +1,4 @@
-# MINOR-PROJECT-19201-DJANGO
+# MINOR-PROJECT-19201
 This is the repository of the Minor Project 19201(Backend + Frontend). 
 Topic: Ubuntu Customer Support Service Assistant(DONNA)
 
